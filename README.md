@@ -31,7 +31,7 @@ A full-stack Python application to **track daily expenses**, view **category-wis
 
 ```bash
 .
-├── main.py                 # FastAPI backend logic
+├── server.py                 # FastAPI backend logic
 ├── ui_app.py              # Streamlit UI app
 ├── db_connector.py        # Database connection and query logic
 ├── add_update_ui.py       # Streamlit tab: Add/Update Expenses
