@@ -1,0 +1,150 @@
+2025-05-17 16:53:42,547-db_connector-INFO-fetch_expenses_for_date called with 2024-08-28
+2025-05-17 16:54:00,164-db_connector-INFO-delete_expenses_for_date called with 2024-08-28
+2025-05-17 16:54:00,201-db_connector-INFO-insert_expenses_for_date called with 2024-08-28, 2000.0, Shooping, bought bady yoda
+2025-05-17 16:54:00,234-db_connector-INFO-insert_expenses_for_date called with 2024-08-28, 300.0, Food, enjoyed pizza
+2025-05-17 16:55:04,819-db_connector-INFO-delete_expenses_for_date called with 2024-08-28
+2025-05-17 16:55:04,844-db_connector-INFO-insert_expenses_for_date called with date:2024-08-28, amount: 2000.0, category:Shooping, notes:bought bady yoda
+2025-05-17 16:55:04,871-db_connector-INFO-insert_expenses_for_date called with date:2024-08-28, amount: 300.0, category:Food, notes:enjoyed pizza
+2025-05-17 16:57:00,790-db_connector-INFO-fetch_expenses_for_date called with 2024-08-28
+2025-05-17 17:35:14,529-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 17:35:21,865-db_connector-INFO-fetch_expenses_for_date called with 2024-08-02
+2025-05-17 17:35:26,571-db_connector-INFO-fetch_expenses_for_date called with 2024-08-03
+2025-05-17 17:36:48,013-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 17:36:56,551-db_connector-INFO-fetch_expenses_for_date called with 2024-08-02
+2025-05-17 17:37:01,015-db_connector-INFO-fetch_expenses_for_date called with 2024-08-03
+2025-05-17 17:37:05,222-db_connector-INFO-fetch_expenses_for_date called with 2024-08-04
+2025-05-17 17:37:09,278-db_connector-INFO-fetch_expenses_for_date called with 2024-08-05
+2025-05-17 17:37:15,524-db_connector-INFO-fetch_expenses_for_date called with 2024-08-06
+2025-05-17 17:37:20,984-db_connector-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-05-17 17:37:25,611-db_connector-INFO-fetch_expenses_for_date called with 2024-08-08
+2025-05-17 17:37:29,384-db_connector-INFO-fetch_expenses_for_date called with 2024-08-09
+2025-05-17 17:37:32,965-db_connector-INFO-fetch_expenses_for_date called with 2024-08-10
+2025-05-17 17:37:37,205-db_connector-INFO-fetch_expenses_for_date called with 2024-08-11
+2025-05-17 17:38:36,734-db_connector-INFO-fetch_expenses_for_date called with 2024-08-15
+2025-05-17 17:38:44,235-db_connector-INFO-fetch_expenses_for_date called with 2024-08-28
+2025-05-17 17:38:53,801-db_connector-INFO-fetch_expenses_for_date called with 2024-08-15
+2025-05-17 17:39:06,406-db_connector-INFO-fetch_expenses_for_date called with 2024-08-28
+2025-05-17 17:52:10,023-db_connector-INFO-fetch_expenses_for_date called with 2024-08-28
+2025-05-17 17:53:58,061-db_connector-INFO-fetch_expenses_for_date called with 2024-08-28
+2025-05-17 17:54:16,827-db_connector-INFO-fetch_expenses_for_date called with 2024-08-29
+2025-05-17 17:55:19,171-db_connector-INFO-fetch_expenses_for_date called with 2024-09-30
+2025-05-17 18:17:28,823-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-06
+2025-05-17 18:28:20,065-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-06
+2025-05-17 18:28:52,734-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-06
+2025-05-17 18:50:58,667-db_connector-INFO-fetch_expenses_for_date called with 2024-09-30
+2025-05-17 18:55:41,900-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:00:00,969-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:00:06,789-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:00:07,685-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:02:51,875-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:02:57,502-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:05:03,623-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:05:11,527-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:06:47,719-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:06:50,660-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:08:27,008-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:08:30,175-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:08:32,339-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-06
+2025-05-17 19:17:36,445-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:17:40,292-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:17:42,462-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-06
+2025-05-17 19:20:22,643-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:20:25,856-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:20:28,014-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-06
+2025-05-17 19:20:34,335-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:20:42,818-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:20:44,984-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-03
+2025-05-17 19:20:58,035-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:20:59,253-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:21:01,421-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-31
+2025-05-17 19:24:13,448-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:24:17,134-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:24:19,282-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-31
+2025-05-17 19:25:08,244-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:25:11,640-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:25:13,813-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-31
+2025-05-17 19:27:23,201-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:27:25,314-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-31
+2025-05-17 19:30:08,214-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:30:10,342-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-31
+2025-05-17 19:30:28,362-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 19:30:30,489-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-31
+2025-05-17 23:07:49,712-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 23:26:32,908-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 23:26:36,999-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 23:26:39,176-db_connector-INFO-fetch_monthly_summary called 
+2025-05-17 23:27:04,961-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 23:27:07,093-db_connector-INFO-fetch_monthly_summary called 
+2025-05-17 23:28:17,307-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 23:28:19,440-db_connector-INFO-fetch_monthly_summary called 
+2025-05-17 23:34:06,227-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 23:34:08,341-db_connector-INFO-fetch_monthly_summary called 
+2025-05-17 23:38:29,921-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 23:38:32,105-db_connector-INFO-fetch_monthly_summary called 
+2025-05-17 23:38:48,896-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 23:38:51,005-db_connector-INFO-fetch_monthly_summary called 
+2025-05-17 23:39:22,781-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 23:39:24,920-db_connector-INFO-fetch_monthly_summary called 
+2025-05-17 23:42:49,725-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 23:42:51,858-db_connector-INFO-fetch_monthly_summary called 
+2025-05-17 23:43:11,491-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 23:43:13,630-db_connector-INFO-fetch_monthly_summary called 
+2025-05-17 23:55:02,624-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 23:55:06,011-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 23:55:08,189-db_connector-INFO-fetch_monthly_summary called 
+2025-05-17 23:55:42,511-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-17 23:55:44,668-db_connector-INFO-fetch_monthly_summary called 
+2025-05-24 14:00:12,931-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:00:19,704-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:00:21,809-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-01
+2025-05-24 14:00:23,647-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:00:24,550-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:00:26,674-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-23
+2025-05-24 14:00:30,680-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:00:32,841-db_connector-INFO-fetch_monthly_summary called 
+2025-05-24 14:00:43,277-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:00:45,403-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-23
+2025-05-24 14:06:48,031-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:06:50,175-db_connector-INFO-fetch_monthly_summary called 
+2025-05-24 14:09:28,612-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:09:30,747-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-23
+2025-05-24 14:09:56,620-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:09:58,764-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-23
+2025-05-24 14:11:43,377-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:11:45,478-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-23
+2025-05-24 14:11:58,104-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:12:00,221-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-23
+2025-05-24 14:12:23,774-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:12:25,932-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-23
+2025-05-24 14:13:06,051-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:13:08,181-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-23
+2025-05-24 14:13:22,517-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:13:24,621-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-23
+2025-05-24 14:15:57,580-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:15:59,687-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-23
+2025-05-24 14:19:19,601-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:19:21,715-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-23
+2025-05-24 14:19:44,278-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:19:46,378-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-23
+2025-05-24 14:20:00,719-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:20:02,873-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-23
+2025-05-24 14:20:33,910-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:20:38,923-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:20:41,053-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-31
+2025-05-24 14:21:10,936-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:21:13,776-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:21:15,938-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-28
+2025-05-24 14:21:54,086-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:21:56,226-db_connector-INFO-fetch_monthly_summary called 
+2025-05-24 14:24:09,144-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:24:11,243-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-28
+2025-05-24 14:24:27,877-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:24:29,959-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-28
+2025-05-24 14:25:31,504-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:25:33,645-db_connector-INFO-fetch_monthly_summary called 
+2025-05-24 14:26:13,300-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:26:15,407-db_connector-INFO-fetch_monthly_summary called 
+2025-05-24 14:26:36,570-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:26:38,719-db_connector-INFO-fetch_expense_summary called with start: 2024-08-01 end: 2024-08-28
+2025-05-24 14:26:47,972-db_connector-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-05-24 14:26:50,108-db_connector-INFO-fetch_monthly_summary called 
